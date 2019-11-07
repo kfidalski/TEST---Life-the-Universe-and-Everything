@@ -1,0 +1,7 @@
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csprojResolveAssemblyReference.cache
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+D:\Users\fidalskik\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
